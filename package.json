@@ -1,22 +1,22 @@
 {
     "name": "carrito",
     "version": "1.0.0",
-    "description": "\"# BCarrito\"",
+    "description": "\"# carrito\"",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/Nukak-Team/BCarrito.git"
+      "url": "git+https://github.com/CNCT2-0/carrito.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/Nukak-Team/BCarrito/issues"
+      "url": "https://github.com/CNCT2-0/carrito/issues"
     },
-    "homepage": "https://github.com/Nukak-Team/BCarrito#readme",
+    "homepage": "https://github.com/CNCT2-0/carrito#readme",
     "dependencies": {
       "axios": "^1.1.3",
       "body-parser": "^1.20.1",
